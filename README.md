@@ -64,7 +64,6 @@ The program outputs analysis results directly to the console, including:
 - Mean, median, and mode  
 - Number of duplicated values  
 - Number of missing values  
-- Count of successful search operations  
 
 ![Example Output](screenshots/example_output.png)
 
